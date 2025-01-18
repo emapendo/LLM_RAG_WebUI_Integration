@@ -1,0 +1,253 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+aiohappyeyeballs = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_170hwh6b2i/croot/aiohappyeyeballs_1725434022310/work"}
+aiohttp = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_4dbk4qcpk1/croot/aiohttp_1725527761629/work"}
+aiosignal = {file = "../../../private/tmp/build/80754af9/aiosignal_1637843061372/work"}
+altair = "==5.4.1"
+async-timeout = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_cfdah1hgvk/croot/async-timeout_1703097014863/work"}
+attrs = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_73lbj1xbpc/croot/attrs_1729089415510/work"}
+beautifulsoup4 = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_94rx5n7wo9/croot/beautifulsoup4-split_1718029832430/work"}
+blinker = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_d64vvpf_j3/croot/blinker_1696539070114/work"}
+bottleneck = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_2bxpizxa3c/croot/bottleneck_1707864819812/work"}
+brotli = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_27zk0eqdh0/croot/brotli-split_1714483157007/work"}
+cachetools = "==5.5.0"
+certifi = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_0ecs_ou28u/croot/certifi_1725551740278/work/certifi"}
+charset-normalizer = {file = "../../../croot/charset-normalizer_1721748349566/work"}
+click = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_61srkg7e2e/croot/click_1698129815327/work"}
+datasets = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_aauuoy5m2s/croot/datasets_1716911618708/work"}
+dill = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_28zwy_olqk/croot/dill_1715094676263/work"}
+filelock = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d3quwmvouf/croot/filelock_1700591194006/work"}
+flask = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b6zka5i2cn/croot/flask_1716545886197/work"}
+frozenlist = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_68w5bkvw82/croot/frozenlist_1698702578544/work"}
+fsspec = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_19mkn689lo/croot/fsspec_1714461553219/work"}
+gitdb = "==4.0.12"
+gitpython = "==3.1.44"
+huggingface-hub = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_268a2ruyoo/croot/huggingface_hub_1724853942260/work"}
+idna = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a12xpo84t2/croot/idna_1714398852854/work"}
+importlib-metadata = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_5498c88e7n/croot/importlib_metadata-suite_1704813534254/work"}
+importlib-resources = "==6.4.5"
+itsdangerous = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_00jdi1gu23/croot/itsdangerous_1716533346702/work"}
+jinja2 = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_44yzu12j7f/croot/jinja2_1716993410427/work"}
+joblib = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_8ff7uji0v2/croot/joblib_1718217225309/work"}
+jsonschema = "==4.23.0"
+jsonschema-specifications = "==2023.12.1"
+markdown-it-py = "==3.0.0"
+markupsafe = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_a84ni4pci8/croot/markupsafe_1704206002077/work"}
+mdurl = "==0.1.2"
+mpmath = "==1.3.0"
+multidict = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_10voz9m15i/croot/multidict_1701096890858/work"}
+multiprocess = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5fxbcbjtcd/croot/multiprocess_1692294387834/work"}
+narwhals = "==1.22.0"
+networkx = "==3.0"
+nltk = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_66jwomcxtp/croot/nltk_1724427705781/work"}
+numexpr = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_76yyu1p9jk/croot/numexpr_1683221830860/work"}
+numpy = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f9f5xs2fx0/croot/numpy_and_numpy_base_1682520577456/work"}
+packaging = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_81ri4yfpjw/croot/packaging_1720101866878/work"}
+pandas = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b9nb2vqtpu/croot/pandas_1692289331806/work"}
+pillow = "==10.2.0"
+pkgutil-resolve-name = "==1.3.10"
+protobuf = "==5.29.3"
+pyarrow = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_36v5ad2oyu/croot/pyarrow_1721673857195/work/python"}
+pydeck = "==0.9.1"
+pygments = "==2.19.1"
+pyobjc = "==10.3.2"
+pyobjc-core = "==10.3.2"
+pyobjc-framework-accessibility = "==10.3.2"
+pyobjc-framework-accounts = "==10.3.2"
+pyobjc-framework-addressbook = "==10.3.2"
+pyobjc-framework-adservices = "==10.3.2"
+pyobjc-framework-adsupport = "==10.3.2"
+pyobjc-framework-applescriptkit = "==10.3.2"
+pyobjc-framework-applescriptobjc = "==10.3.2"
+pyobjc-framework-applicationservices = "==10.3.2"
+pyobjc-framework-apptrackingtransparency = "==10.3.2"
+pyobjc-framework-audiovideobridging = "==10.3.2"
+pyobjc-framework-authenticationservices = "==10.3.2"
+pyobjc-framework-automaticassessmentconfiguration = "==10.3.2"
+pyobjc-framework-automator = "==10.3.2"
+pyobjc-framework-avfoundation = "==10.3.2"
+pyobjc-framework-avkit = "==10.3.2"
+pyobjc-framework-avrouting = "==10.3.2"
+pyobjc-framework-backgroundassets = "==10.3.2"
+pyobjc-framework-browserenginekit = "==10.3.2"
+pyobjc-framework-businesschat = "==10.3.2"
+pyobjc-framework-calendarstore = "==10.3.2"
+pyobjc-framework-callkit = "==10.3.2"
+pyobjc-framework-cfnetwork = "==10.3.2"
+pyobjc-framework-cinematic = "==10.3.2"
+pyobjc-framework-classkit = "==10.3.2"
+pyobjc-framework-cloudkit = "==10.3.2"
+pyobjc-framework-cocoa = "==10.3.2"
+pyobjc-framework-collaboration = "==10.3.2"
+pyobjc-framework-colorsync = "==10.3.2"
+pyobjc-framework-contacts = "==10.3.2"
+pyobjc-framework-contactsui = "==10.3.2"
+pyobjc-framework-coreaudio = "==10.3.2"
+pyobjc-framework-coreaudiokit = "==10.3.2"
+pyobjc-framework-corebluetooth = "==10.3.2"
+pyobjc-framework-coredata = "==10.3.2"
+pyobjc-framework-corehaptics = "==10.3.2"
+pyobjc-framework-corelocation = "==10.3.2"
+pyobjc-framework-coremedia = "==10.3.2"
+pyobjc-framework-coremediaio = "==10.3.2"
+pyobjc-framework-coremidi = "==10.3.2"
+pyobjc-framework-coreml = "==10.3.2"
+pyobjc-framework-coremotion = "==10.3.2"
+pyobjc-framework-coreservices = "==10.3.2"
+pyobjc-framework-corespotlight = "==10.3.2"
+pyobjc-framework-coretext = "==10.3.2"
+pyobjc-framework-corewlan = "==10.3.2"
+pyobjc-framework-cryptotokenkit = "==10.3.2"
+pyobjc-framework-datadetection = "==10.3.2"
+pyobjc-framework-devicecheck = "==10.3.2"
+pyobjc-framework-dictionaryservices = "==10.3.2"
+pyobjc-framework-discrecording = "==10.3.2"
+pyobjc-framework-discrecordingui = "==10.3.2"
+pyobjc-framework-diskarbitration = "==10.3.2"
+pyobjc-framework-dvdplayback = "==10.3.2"
+pyobjc-framework-eventkit = "==10.3.2"
+pyobjc-framework-exceptionhandling = "==10.3.2"
+pyobjc-framework-executionpolicy = "==10.3.2"
+pyobjc-framework-extensionkit = "==10.3.2"
+pyobjc-framework-externalaccessory = "==10.3.2"
+pyobjc-framework-fileprovider = "==10.3.2"
+pyobjc-framework-fileproviderui = "==10.3.2"
+pyobjc-framework-findersync = "==10.3.2"
+pyobjc-framework-fsevents = "==10.3.2"
+pyobjc-framework-gamecenter = "==10.3.2"
+pyobjc-framework-gamecontroller = "==10.3.2"
+pyobjc-framework-gamekit = "==10.3.2"
+pyobjc-framework-gameplaykit = "==10.3.2"
+pyobjc-framework-healthkit = "==10.3.2"
+pyobjc-framework-imagecapturecore = "==10.3.2"
+pyobjc-framework-inputmethodkit = "==10.3.2"
+pyobjc-framework-installerplugins = "==10.3.2"
+pyobjc-framework-instantmessage = "==10.3.2"
+pyobjc-framework-intents = "==10.3.2"
+pyobjc-framework-intentsui = "==10.3.2"
+pyobjc-framework-iobluetooth = "==10.3.2"
+pyobjc-framework-iobluetoothui = "==10.3.2"
+pyobjc-framework-iosurface = "==10.3.2"
+pyobjc-framework-ituneslibrary = "==10.3.2"
+pyobjc-framework-kernelmanagement = "==10.3.2"
+pyobjc-framework-latentsemanticmapping = "==10.3.2"
+pyobjc-framework-launchservices = "==10.3.2"
+pyobjc-framework-libdispatch = "==10.3.2"
+pyobjc-framework-libxpc = "==10.3.2"
+pyobjc-framework-linkpresentation = "==10.3.2"
+pyobjc-framework-localauthentication = "==10.3.2"
+pyobjc-framework-localauthenticationembeddedui = "==10.3.2"
+pyobjc-framework-mailkit = "==10.3.2"
+pyobjc-framework-mapkit = "==10.3.2"
+pyobjc-framework-mediaaccessibility = "==10.3.2"
+pyobjc-framework-medialibrary = "==10.3.2"
+pyobjc-framework-mediaplayer = "==10.3.2"
+pyobjc-framework-mediatoolbox = "==10.3.2"
+pyobjc-framework-metal = "==10.3.2"
+pyobjc-framework-metalfx = "==10.3.2"
+pyobjc-framework-metalkit = "==10.3.2"
+pyobjc-framework-metalperformanceshaders = "==10.3.2"
+pyobjc-framework-metalperformanceshadersgraph = "==10.3.2"
+pyobjc-framework-metrickit = "==10.3.2"
+pyobjc-framework-mlcompute = "==10.3.2"
+pyobjc-framework-modelio = "==10.3.2"
+pyobjc-framework-multipeerconnectivity = "==10.3.2"
+pyobjc-framework-naturallanguage = "==10.3.2"
+pyobjc-framework-netfs = "==10.3.2"
+pyobjc-framework-network = "==10.3.2"
+pyobjc-framework-networkextension = "==10.3.2"
+pyobjc-framework-notificationcenter = "==10.3.2"
+pyobjc-framework-opendirectory = "==10.3.2"
+pyobjc-framework-osakit = "==10.3.2"
+pyobjc-framework-oslog = "==10.3.2"
+pyobjc-framework-passkit = "==10.3.2"
+pyobjc-framework-pencilkit = "==10.3.2"
+pyobjc-framework-phase = "==10.3.2"
+pyobjc-framework-photos = "==10.3.2"
+pyobjc-framework-photosui = "==10.3.2"
+pyobjc-framework-preferencepanes = "==10.3.2"
+pyobjc-framework-pushkit = "==10.3.2"
+pyobjc-framework-quartz = "==10.3.2"
+pyobjc-framework-quicklookthumbnailing = "==10.3.2"
+pyobjc-framework-replaykit = "==10.3.2"
+pyobjc-framework-safariservices = "==10.3.2"
+pyobjc-framework-safetykit = "==10.3.2"
+pyobjc-framework-scenekit = "==10.3.2"
+pyobjc-framework-screencapturekit = "==10.3.2"
+pyobjc-framework-screensaver = "==10.3.2"
+pyobjc-framework-screentime = "==10.3.2"
+pyobjc-framework-scriptingbridge = "==10.3.2"
+pyobjc-framework-searchkit = "==10.3.2"
+pyobjc-framework-security = "==10.3.2"
+pyobjc-framework-securityfoundation = "==10.3.2"
+pyobjc-framework-securityinterface = "==10.3.2"
+pyobjc-framework-sensitivecontentanalysis = "==10.3.2"
+pyobjc-framework-servicemanagement = "==10.3.2"
+pyobjc-framework-sharedwithyou = "==10.3.2"
+pyobjc-framework-sharedwithyoucore = "==10.3.2"
+pyobjc-framework-shazamkit = "==10.3.2"
+pyobjc-framework-social = "==10.3.2"
+pyobjc-framework-soundanalysis = "==10.3.2"
+pyobjc-framework-speech = "==10.3.2"
+pyobjc-framework-spritekit = "==10.3.2"
+pyobjc-framework-storekit = "==10.3.2"
+pyobjc-framework-symbols = "==10.3.2"
+pyobjc-framework-syncservices = "==10.3.2"
+pyobjc-framework-systemconfiguration = "==10.3.2"
+pyobjc-framework-systemextensions = "==10.3.2"
+pyobjc-framework-threadnetwork = "==10.3.2"
+pyobjc-framework-uniformtypeidentifiers = "==10.3.2"
+pyobjc-framework-usernotifications = "==10.3.2"
+pyobjc-framework-usernotificationsui = "==10.3.2"
+pyobjc-framework-videosubscriberaccount = "==10.3.2"
+pyobjc-framework-videotoolbox = "==10.3.2"
+pyobjc-framework-virtualization = "==10.3.2"
+pyobjc-framework-vision = "==10.3.2"
+pyobjc-framework-webkit = "==10.3.2"
+pypdf2 = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_015o_uq2mh/croots/recipe/pypdf2_1662469690829/work"}
+pysocks = {file = "../../ktietz/Code/oss/ci_pkgs/pysocks_1626781349491/work"}
+python-dateutil = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_66ud1l42_h/croot/python-dateutil_1716495741162/work"}
+pyttsx3 = "==2.98"
+pytz = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_a4b76c83ik/croot/pytz_1713974318928/work"}
+pyyaml = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_faoex52hrr/croot/pyyaml_1728657970485/work"}
+referencing = "==0.35.1"
+regex = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_2cy04sgiwf/croot/regex_1726650046753/work"}
+requests = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_70sm12ba9w/croot/requests_1721414707360/work"}
+rich = "==13.9.4"
+rpds-py = "==0.20.1"
+safetensors = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_86n6k76d4o/croot/safetensors_1729663454471/work"}
+scikit-learn = "==1.3.2"
+scipy = "==1.10.1"
+six = {file = "../../../private/tmp/build/80754af9/six_1644875935023/work"}
+smmap = "==5.0.2"
+soupsieve = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_9798xzs_03/croot/soupsieve_1696347567192/work"}
+streamlit = "==1.40.1"
+sympy = "==1.13.1"
+tenacity = "==9.0.0"
+threadpoolctl = "==3.5.0"
+tokenizers = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_e1oq_dpnmt/croot/tokenizers_1729696688364/work"}
+toml = "==0.10.2"
+torch = "==2.4.1"
+torchaudio = "==2.4.1"
+torchvision = "==0.19.1"
+tornado = "==6.4.2"
+tqdm = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_24zjwympsr/croot/tqdm_1724853942429/work"}
+transformers = "==4.46.3"
+typing-extensions = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_93dg13ilv4/croot/typing_extensions_1715268840722/work"}
+tzdata = {file = "../../../croot/python-tzdata_1690578112552/work"}
+urllib3 = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_06_m8gdsy6/croot/urllib3_1727769822458/work"}
+watchdog = "==4.0.2"
+werkzeug = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5bnbxlhunm/croot/werkzeug_1716533322814/work"}
+whisper = "==1.1.5"
+xxhash = {file = "../../../private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_5dctqdmbn8/croot/python-xxhash_1667919512545/work"}
+yarl = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_9et2w8mlgu/croot/yarl_1725976501637/work"}
+zipp = {file = "../../../private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_99az8pifo0/croot/zipp_1729012379243/work"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
