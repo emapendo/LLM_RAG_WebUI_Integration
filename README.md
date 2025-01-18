@@ -1,18 +1,11 @@
-## Setup Instructions
+# Task Completed
 
-### Prerequisites
-- Python 3.8 - 3.10 (recommended: Python 3.8).
-- A terminal (bash, PowerShell, etc.).
-- Optionally, a GPU for better performance.
+The project has been completed in a private repository as per the instructions. 
+The reviewer has been invited to access the private repository.
 
-### Installation Steps
-1. Clone the repository:
-   ```bash
-   git clone <private-repo-url>
-   cd LLM-RAG-WebUI-Integration
-
-conda create --name llm_env python=3.8 -y
-conda activate llm_env
+**Private Repo Name:** JSB_interview_problem  
+**Reviewer Invite:** Sent to philipamadasun1@gmail.com  
+**Contact Email:** eliasmapendo97@gmail.com
 
 
-pip install -r requirements.txt
+I had some issues but that all I can do for now
