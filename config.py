@@ -10,7 +10,9 @@ class Config:
      clear and accurate responses. In RAG mode, focus on answering questions based on provided context. Avoid assumptions
       about user identity or context unless explicitly stated."""
     CONTEXT_WINDOW: int = 2000  # Token limit for conversation history
+
     # add urls or local pdf
     RAG_URLS: List[str] = field(default_factory=lambda: [
         "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001813756/975b3e9b-268e-4798-a9e4-2a9a7c92dc10.pdf",
+        "Uers/"
     ])  # Default documents for RAG mode
